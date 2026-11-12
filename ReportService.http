@@ -1,0 +1,7 @@
+@ReportService_HostAddress = http://localhost:5147
+
+GET {{ReportService_HostAddress}}/reports/orders
+Accept: application/json
+
+###
+
